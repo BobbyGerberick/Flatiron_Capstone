@@ -1,4 +1,6 @@
 # Voter Data Analysis
+![](https://cdn.thefabricator.com/a/ballot-box-fabricator-navigates-unprecedented-demand-for-early-voting-1602917571.jpg?size=1000x1000)
+
 ## Overview
 As my capstone project for Flatiron School’s Data Science program I built a model to predict how individuals would vote in a presidential election based on data from the 2012, 2016 and 2020 elections. I then used that model to analyze how broad categories of political issues and individual issues themselves influence an individual’s vote. I also examined the accuracy of predictions based on basic demographic information like income, race, education etc.
 
@@ -26,5 +28,10 @@ The reliability of the Trust in Government category when it comes to predicting 
 Aditionally I looked at individual columns and found that the model can predict with 87.1% accuracy who the respondent would vote for based on their opinion of the federal government's response to COVID-19. COVID-19 was obviously a major issue in the 2020 election however the fact that a single data point can get a prediction this accuracte is noteworthy.
 
 ## Next Steps
-My next step is to look at data from 2012 and 2016 to see how the issues important to voters have changed and to see how the predictibility of elections has changed. 
+The most obvious next step would be to look at data from the 2012 and 2016 elections to see how the issues important to voters have changed. As I mentioned previously the healthcare and policy category was a good predictor for vote choice in 2020. This almost certinly impacted by the COVID-19 pandemic. Analyzing previous elections could help quantify that impact.
+
+Demographic data is generally available and as this project demonstrated a somewhat accurate predictor of how an individual will vote. Improving that accuracy would be very useful to political parties and campaigns.
+
+Finally, turnout among elligable voters in 2020 was 66% which is a high in recent U.S. history. Still, a third of eligable voters did not turnout. If we could analize those potential voters and understand why they dont vote political parties could boost turnout among their voters or a nonpartisan group could work to boost turnout in general
+
 
