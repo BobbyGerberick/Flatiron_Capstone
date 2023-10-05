@@ -34,4 +34,30 @@ Demographic data is generally available and as this project demonstrated a somew
 
 Finally, turnout among elligable voters in 2020 was 66% which is a high in recent U.S. history. Still, a third of eligable voters did not turnout. If we could analize those potential voters and understand why they dont vote political parties could boost turnout among their voters or a nonpartisan group could work to boost turnout in general
 
+## Repository Structure
+├── data
+    ├── ANES_Raw_Data
+        ├── ANESTimeSeriesStudy2016.DTA
+    ├── SETUPS2012SETUPS2012_Supplemental.do
+        ├── 2012_Codebook.pdf
+        ├── SETUPS2012.dta
+        ├── SETUPS2012_Supplemental.do
+    ├── SETUPS2016
+        ├── 2016_Codebook-Pl.pdf
+        ├── 2016_Codebook.pdf
+        ├── Book2.xlsx
+        ├── SETUPS2016.dta
+        ├── SETUPS2016_Supplemental.do
+    ├── SETUPS2020
+        ├── 2020Questions.xlsx
+        ├── 2020_Codebook.pdf
+        ├── Question_Categories.xlsx
+        ├── SETUPS2020.dta
+        ├── SETUPS2020_Supplemental.do
+├── .gitignore
+├── LICENSE
+├── Predicting_Vote_Choice_Notebook.ipynb
+├── README.md
+├── presentation.pdf
+└── requirements.txt
 
