@@ -36,12 +36,12 @@ Finally, turnout among elligable voters in 2020 was 66% which is a high in recen
 
 ## Repository Structure
 ├── data/n
-    ├── ANES_Raw_Data/n
-        ├── ANESTimeSeriesStudy2016.DTA/n
-    ├── SETUPS2012SETUPS2012_Supplemental.do/n
-        ├── 2012_Codebook.pdf/n
-        ├── SETUPS2012.dta/n
-        ├── SETUPS2012_Supplemental.do/n
+    ├── ANES_Raw_Data /n
+        ├── ANESTimeSeriesStudy2016.DTA /n
+    ├── SETUPS2012SETUPS2012_Supplemental.do /n
+        ├── 2012_Codebook.pdf /n
+        ├── SETUPS2012.dta /n
+        ├── SETUPS2012_Supplemental.do /n
     ├── SETUPS2016
         ├── 2016_Codebook-Pl.pdf
         ├── 2016_Codebook.pdf
